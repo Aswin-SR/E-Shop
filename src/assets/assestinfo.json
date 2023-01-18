@@ -1,0 +1,154 @@
+{
+    "Products": [
+    {
+        "id":"01",
+        "time_added": "2015-03-25",
+        "product_type": "Apparel",
+        "product_link": "app1.jpg",
+        "product_sub": "Hoodie",
+        "product_desc": "H&M Men Blue Solid Relaxed Fit Hoodie",
+        "product_price": "299",
+        "available_quan": "100"
+    },
+    {
+        "id":"02",
+        "time_added": "2015-04-25",
+        "product_type": "Apparel",
+        "product_link": "app2.jpg",
+        "product_sub": "Trousers",
+        "product_desc": "Teal Mid Rise Suit Set Trousers",
+        "product_price": "1900",
+        "available_quan": "100"
+    },
+    {
+        "id":"03",
+        "time_added": "2015-02-25",
+        "product_type": "Apparel",
+        "product_link": "app3.jpg",
+        "product_sub": "Sweater",
+        "product_desc": "Blue patterned knit sweater, has a mock collar with a short button placket, long sleeves",
+        "product_price": "1499",
+        "available_quan": "200"
+    },
+    {
+        "id":"04",
+        "time_added": "2015-01-25",
+        "product_type": "Electronics",
+        "product_link": "ear1.jpg",
+        "product_sub": "boAT BassHeads",
+        "product_desc": "Stand out from the crowd with the boAt BassHeads 100 Hawk inspired earphones.",
+        "product_price": "298",
+        "available_quan": "300"
+    },
+    {
+        "id":"05",
+        "time_added": "2016-03-25",
+        "product_type": "Electronics",
+        "product_link": "ear2.jpg",
+        "product_sub": "Airdopes",
+        "product_desc": "Wireless Bluetooth Bliss v5.0",
+        "product_price": "100",
+        "available_quan": "2000"
+    },
+    {
+        "id":"06",
+        "time_added": "2018-03-25",
+        "product_type": "Electronics",
+        "product_link": "ear3.jpg",
+        "product_sub": "C150SI",
+        "product_desc": "Superior JBL Sound, with bass you can feel",
+        "product_price": "629",
+        "available_quan": "500"
+    },
+    {
+        "id":"07",
+        "time_added": "2017-03-25",
+        "product_type": "Electronics",
+        "product_link": "phon1.jpg",
+        "product_sub": "Galaxy F13",
+        "product_desc": "Power your day with Galaxy F13",
+        "product_price": "11499",
+        "available_quan": "2000"
+    },
+    {
+        "id":"08",
+        "time_added": "2015-03-30",
+        "product_type": "Electronics",
+        "product_link": "phon3.jpg",
+        "product_sub": "Galaxy M13",
+        "product_desc": "Power your day with Galaxy M13",
+        "product_price": "15999",
+        "available_quan": "1000"
+    },
+    {
+        "id":"09",
+        "time_added": "2020-03-25",
+        "product_type": "Electronics",
+        "product_link": "phon2.jpg",
+        "product_sub": "Galaxy S22 Ultra",
+        "product_desc": "Power your move and style your day with Galaxy S22 Ultra",
+        "product_price": "109999",
+        "available_quan": "200"
+    },
+    {
+        "id":"10",
+        "time_added": "2021-03-25",
+        "product_type": "Footwear",
+        "product_link": "shoe1.jpg",
+        "product_sub": "Air Jordan",
+        "product_desc": "Power your move and style your day with Air Jordan",
+        "product_price": "701",
+        "available_quan": "250"
+    },
+    {
+        "id":"11",
+        "time_added": "2022-03-25",
+        "product_type": "Footwear",
+        "product_link": "shoe2.jpg",
+        "product_sub": "ARBUNORE",
+        "product_desc": "Arbunore lace-up Casual Shoes for Men",
+        "product_price": "1254",
+        "available_quan": "350"
+    },
+    {
+        "id":"12",
+        "time_added": "2021-03-25",
+        "product_type": "Footwear",
+        "product_link": "shoe3.jpg",
+        "product_sub": "Nike Made for you",
+        "product_desc": "Nike - Power Your Move",
+        "product_price": "3000",
+        "available_quan": "2500"
+    },
+    {
+        "id":"13",
+        "time_added": "2018-04-25",
+        "product_type": "Personal Care",
+        "product_link": "pers1.jpg",
+        "product_sub": "Caffine",
+        "product_desc": "The Coffe Body Scrub",
+        "product_price": "3000",
+        "available_quan": "290"
+    },
+    {
+        "id":"14",
+        "time_added": "2019-05-25",
+        "product_type": "Personal Care",
+        "product_link": "pers2.jpg",
+        "product_sub": "Nivea",
+        "product_desc": "Nivea Body Milk Nouriting Lotion",
+        "product_price": "300",
+        "available_quan": "2500"
+    },
+    {
+        "id":"15",
+        "time_added": "2020-06-25",
+        "product_type": "Personal Care",
+        "product_link": "pers3.jpg",
+        "product_sub": "Cetaphil",
+        "product_desc": "Skin Cleanser, Feel Fresh Again",
+        "product_price": "500",
+        "available_quan": "280"
+    }
+            ]
+}
